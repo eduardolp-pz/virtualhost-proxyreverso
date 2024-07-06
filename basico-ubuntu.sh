@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+ard#!/usr/bin/env bash
 echo "Instalando estructura basica para clase virtualhost y proxy reverso"
 
 # Habilitando la memoria de intercambio.
