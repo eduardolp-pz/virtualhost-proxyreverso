@@ -5,7 +5,7 @@ En una instancia basada en Amazon Linux, clonar el proyecto actual y ejecutar lo
 ### Ubuntu:
 
 `
-wget https://raw.githubusercontent.com/vacax/virtualhost-proxyreverso/master/basico-ubuntu.sh && chmod +x basico-ubuntu.sh && bash basico-ubuntu.sh
+wget https://raw.githubusercontent.com/eduardolp-pz/virtualhost-proxyreverso/master/basico-ubuntu.sh && chmod +x basico-ubuntu.sh && bash basico-ubuntu.sh
 `
 
 ### Amazon Linux 2:
