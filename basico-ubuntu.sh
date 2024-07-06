@@ -105,7 +105,7 @@ cd practica-4
 ./gradlew shadowjar
 
 # Subiendo la apliacacion a puerto designado
-java -jar ~/practica-4/build/libs/app.jar > ~/practica-4/build/libs/salida.txt 2> ~/practica-4/build/libs/error.txt &
+java -jar ~/misPractiasWeb/practica-4/build/libs/app.jar > ~/misPractiasWeb/practica-4/build/libs/salida.txt 2> ~/misPractiasWeb/practica-4/build/libs/error.txt &
 
 # Reinicar apache
 sudo systemctl restart apache2
